@@ -18,6 +18,7 @@ subtitle: openSUSE is completely free to download, use and share.
 ## Chosing which Distribution to Download
 
 [openSUSE Tumbleweed](tumbleweed) is a **rolling-release**. This means the software is always the latest stable versions available from the openSUSE Project. Things will change regularly as Free and Open Source projects continually release new versions of their software.  
+
 Tumbleweed is recommended for **Developers**, **openSUSE Contributors**, and **Linux/FOSS Enthusiasts**.
 
 [openSUSE Leap](leap) is a **regular-release**. This means it releases [annually](https://en.opensuse.org/openSUSE:Roadmap), with security and stability updates being the priority during each release [lifetime](https://en.opensuse.org/Lifetime). It is not expected to change in any significant way until its next annual release.  
@@ -25,6 +26,7 @@ Leap shares a Common Base System with [SUSE Linux Enterprise](https://www.suse.c
 Leap is recommended for **Sysadmins**, **Enterprise Developers**, and **'Regular' Desktop Users**.
 
 Both distributions are well tested by [openQA](https://openqa.opensuse.org) as well as by human openSUSE contributors so both can be relied upon to work.  
+
 Both distributions are fully capable of being used on a Desktop PC, laptop, server, or in the cloud.
 
 **If you are still not sure, download [openSUSE Leap](leap)**  
